@@ -1,0 +1,1 @@
+I led the development of an Emotion Detector with CNN, engineered to classify emotions like happiness, sadness, anger, surprise, fear, and neutrality from facial images. The project encompassed dataset collection, preprocessing, model architecture selection, training, evaluation, integration with OpenCV for real-time detection, and optionally, user interface development
